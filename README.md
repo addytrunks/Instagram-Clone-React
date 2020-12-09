@@ -8,4 +8,3 @@ This app is built with only **React** and uses **Cloud Firestore** as its databa
 1. Comment
 3. Image Selection
 4. Progress Bar
-# Instagram-Clone-React
